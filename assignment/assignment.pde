@@ -17,15 +17,30 @@ void draw() {
 strokeWeight(0);
 fill(46, 141, 36);
 rect(0, 400, 700, 700);
+//the grass
 
 fill(168, 120, 49);
 strokeWeight(5);
 rect(400, 50, 350, 350);
+// the house
 
 strokeWeight(3);
 rect(600, 250, 85, 150);
+// the door
 
 fill(245, 252, 49);
 rect(660, 300, 15, 15);
+//the doorknob
+
+strokeWeight(6);
+fill(255, 255, 6);
+rect(1, 2, 100, 100);
+//the sun
+
+strokeWeight(5);
+fill(17, 128, 21);
+rect(150, 350, 50, 50);
+rect(200, 350, 50, 50);
+//creeper legs
 
 }
