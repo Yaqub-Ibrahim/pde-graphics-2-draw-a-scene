@@ -43,4 +43,12 @@ rect(150, 350, 50, 50);
 rect(200, 350, 50, 50);
 //creeper legs
 
+rect(175, 220, 50, 130);
+//creeper body
+
+rect(163, 143, 75, 75);
+//creeper head
+
+
+
 }
