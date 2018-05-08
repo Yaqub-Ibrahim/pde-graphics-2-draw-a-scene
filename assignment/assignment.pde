@@ -1,8 +1,8 @@
 /**
- * <program/assignment name>
- * by <Your Name>
+ * processing-graphics-2-draw-a-scene
+ * by Yaqub Ibrahim
  * 
- * <Two sentence description of program>
+ * A picture of a Creeper about to blow up a house
  * 
  */
  
@@ -57,9 +57,14 @@ rect(212, 155, 15, 30);
 
 
 rect(185, 195, 30, 10);
-rect(190, 193, 25, 25);
-rect(180, 195, 13, 23);
 rect(210, 195, 13, 23);
+rect(175, 195, 13, 23);
+rect(188, 186, 25, 25);
+//creeper face
+
+textSize(25);
+text("Hisssss!", 280, 180);
+//creeper text
 
 
 
